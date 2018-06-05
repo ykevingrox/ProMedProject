@@ -1,0 +1,956 @@
+(S
+  There/EX
+  are/VBP
+  2/CD
+  types/NNS
+  of/IN
+  non-native/JJ
+  mosquitoes/NNS
+  that/WDT
+  can/MD
+  transmit/VB
+  potentially/RB
+  fatal/JJ
+  diseases/NNS
+  that/WDT
+  have/VBP
+  spread/VBN
+  throughout/IN
+  the/DT
+  state/NN
+  ,/,
+  including/VBG
+  (PERSON San/NNP Diego/NNP County/NNP)
+  ,/,
+  and/CC
+  could/MD
+  see/VB
+  a/DT
+  population/NN
+  explosion/NN
+  come/VBP
+  spring/NN
+  ./.)
+(S
+  The/DT
+  blood-suckers/NNS
+  expanded/VBD
+  their/PRP$
+  territory/NN
+  during/IN
+  summer/NN
+  and/CC
+  fall/NN
+  2015/CD
+  to/TO
+  more/RBR
+  than/IN
+  a/DT
+  dozen/NN
+  cities/NNS
+  and/CC
+  unincorporated/JJ
+  areas/NNS
+  of/IN
+  (GPE San/NNP Diego/NNP)
+  and/CC
+  (ORGANIZATION Imperial/NNP)
+  counties/NNS
+  ,/,
+  including/VBG
+  (PERSON San/NNP Diego/NNP)
+  ,/,
+  (GPE Oceanside/NNP)
+  ,/,
+  (PERSON Escondido/NNP)
+  ,/,
+  (PERSON Chula/NNP Vista/NNP)
+  ,/,
+  (PERSON El/NNP Cajon/NNP)
+  ,/,
+  (PERSON Imperial/NNP Beach/NNP)
+  ,/,
+  (PERSON El/NNP Centro/NNP)
+  and/CC
+  (GPE Calexico/NNP)
+  ./.)
+(S
+  The/DT
+  growth/NN
+  was/VBD
+  largely/RB
+  attributed/VBN
+  to/TO
+  abnormally/RB
+  warm/VB
+  weather/NN
+  conditions/NNS
+  ./.)
+(S
+  ``/``
+  It/PRP
+  was/VBD
+  quicker/JJR
+  and/CC
+  more/RBR
+  widespread/JJ
+  than/IN
+  any/DT
+  of/IN
+  us/PRP
+  could/MD
+  have/VB
+  anticipated/VBN
+  ,/,
+  ''/''
+  said/VBD
+  (PERSON Chris/NNP Conlan/NNP)
+  ,/,
+  an/DT
+  ecologist/NN
+  with/IN
+  the/DT
+  (ORGANIZATION San/NNP Diego/NNP County/NNP)
+  Vector/NNP
+  Control/NNP
+  Program/NNP
+  ./.)
+(S
+  The/DT
+  yellow/JJ
+  fever/NN
+  mosquito/NN
+  (/(
+  (ORGANIZATION _Aedes/NNP)
+  aegypti_/NN
+  )/)
+  and/CC
+  (GPE Asian/JJ)
+  tiger/NN
+  mosquito/NN
+  (/(
+  (PERSON _Aedes/NNP)
+  albopictus_/RB
+  )/)
+  can/MD
+  carry/VB
+  diseases/NNS
+  [/JJ
+  viruses/NNS
+  ]/VBP
+  linked/VBN
+  to/TO
+  birth/NN
+  defects/NNS
+  ,/,
+  painful/JJ
+  illness/NN
+  and/CC
+  tens/NNS
+  of/IN
+  thousands/NNS
+  of/IN
+  deaths/NNS
+  around/IN
+  the/DT
+  globe/NN
+  every/DT
+  year/NN
+  ./.)
+(S
+  They/PRP
+  can/MD
+  be/VB
+  identified/VBN
+  by/IN
+  their/PRP$
+  black-and-white/JJ
+  striped/JJ
+  bodies/NNS
+  and/CC
+  aggressive/JJ
+  behavior/NN
+  toward/IN
+  people/NNS
+  ,/,
+  often/RB
+  following/VBG
+  them/PRP
+  indoors/NNS
+  ./.)
+(S
+  Smaller/JJR
+  than/IN
+  average/NN
+  mosquitoes/NNS
+  ,/,
+  these/DT
+  pests/NNS
+  distinguish/VBP
+  themselves/PRP
+  as/IN
+  daytime/JJ
+  feeders/NNS
+  ./.)
+(S
+  They/PRP
+  're/VBP
+  tough/JJ
+  to/TO
+  eradicate/VB
+  ,/,
+  needing/VBG
+  as/RB
+  little/JJ
+  as/IN
+  a/DT
+  thimble/NN
+  of/IN
+  water/NN
+  to/TO
+  reproduce/VB
+  ./.)
+(S
+  After/IN
+  months/NNS
+  of/IN
+  tracking/VBG
+  the/DT
+  growing/VBG
+  population/NN
+  of/IN
+  yellow/JJ
+  fever/NN
+  mosquitoes/NNS
+  ,/,
+  local/JJ
+  vector-control/NN
+  officials/NNS
+  cringed/VBD
+  in/IN
+  September/NNP
+  2015/CD
+  when/WRB
+  they/PRP
+  found/VBD
+  the/DT
+  (GPE Asian/JJ)
+  tiger/NN
+  mosquito/NN
+  as/RB
+  well/RB
+  ./.)
+(S
+  Both/DT
+  species/NNS
+  of/IN
+  the/DT
+  insect/NN
+  were/VBD
+  1st/CD
+  located/VBN
+  near/IN
+  (GPE San/NNP Diego/NNP)
+  's/POS
+  shipyards/NNS
+  ,/,
+  although/IN
+  it/PRP
+  's/VBZ
+  unclear/JJ
+  how/WRB
+  they/PRP
+  first/RB
+  came/VBD
+  into/IN
+  this/DT
+  county/NN
+  ./.)
+(S
+  ``/``
+  In/IN
+  many/JJ
+  cases/NNS
+  ,/,
+  when/WRB
+  the/DT
+  technicians/NNS
+  go/VBP
+  out/RP
+  .../:
+  to/TO
+  respond/VB
+  to/TO
+  complaints/NNS
+  [/VB
+  about/IN
+  the/DT
+  mosquitoes/NNS
+  ]/LS
+  ,/,
+  they/PRP
+  're/VBP
+  even/RB
+  swatting/VBG
+  them/PRP
+  out/IN
+  of/IN
+  their/PRP$
+  face/NN
+  ,/,
+  ''/''
+  (PERSON Conlan/NNP)
+  said/VBD
+  ./.)
+(S
+  ``/``
+  In/IN
+  a/DT
+  couple/NN
+  of/IN
+  places/NNS
+  ,/,
+  it/PRP
+  has/VBZ
+  reached/VBN
+  very/RB
+  troubling/JJ
+  numbers/NNS
+  --/:
+  (PERSON San/NNP Ysidro/NNP)
+  and/CC
+  some/DT
+  areas/NNS
+  around/IN
+  (PERSON Barrio/NNP Logan/NNP)
+  to/TO
+  (PERSON Logan/NNP Heights/NNP)
+  ./.)
+(S It/PRP 's/VBZ pretty/JJ widespread/JJ down/IN there/RB ./. ''/'')
+(S
+  So/RB
+  far/RB
+  ,/,
+  (GPE California/NNP)
+  has/VBZ
+  seen/VBN
+  no/DT
+  locally/RB
+  acquired/VBN
+  cases/NNS
+  of/IN
+  disease/NN
+  spread/NN
+  by/IN
+  these/DT
+  mosquitoes/NNS
+  ,/,
+  which/WDT
+  include/VBP
+  dengue/NN
+  fever/NN
+  ,/,
+  yellow/JJ
+  fever/NN
+  and/CC
+  chikungunya/NN
+  ./.)
+(S
+  A/DT
+  mosquito/NN
+  must/MD
+  bite/VB
+  an/DT
+  infected/JJ
+  person/NN
+  to/TO
+  then/RB
+  pass/VB
+  along/IN
+  a/DT
+  malady/JJ
+  [/NNP
+  virus/NN
+  ]/NN
+  ./.)
+(S
+  This/DT
+  year/NN
+  ,/,
+  travelers/NNS
+  returning/VBG
+  to/TO
+  (GPE California/NNP)
+  have/VBP
+  reported/VBN
+  99/CD
+  cases/NNS
+  of/IN
+  dengue/NN
+  and/CC
+  178/CD
+  cases/NNS
+  of/IN
+  chikungunya/NN
+  [/NNP
+  virus/NN
+  infection/NN
+  ]/NN
+  ./.)
+(S
+  There/EX
+  have/VBP
+  been/VBN
+  no/RB
+  reported/JJ
+  cases/NNS
+  of/IN
+  yellow/JJ
+  fever/NN
+  ./.)
+(S
+  (GPE West/NNP)
+  (ORGANIZATION Nile/NNP)
+  virus/NN
+  remains/VBZ
+  a/DT
+  more/RBR
+  immediate/JJ
+  threat/NN
+  among/IN
+  mosquito-related/JJ
+  illnesses/NNS
+  ,/,
+  but/CC
+  that/DT
+  could/MD
+  change/VB
+  ,/,
+  said/VBD
+  (PERSON Marco/NNP Metzger/NNP)
+  ,/,
+  senior/JJ
+  public/JJ
+  health/NN
+  biologist/NN
+  in/IN
+  the/DT
+  vector-borne-disease/JJ
+  section/NN
+  at/IN
+  the/DT
+  (ORGANIZATION California/NNP Department/NNP)
+  of/IN
+  (ORGANIZATION Public/NNP Health/NNP)
+  ./.)
+(S
+  ``/``
+  What/WP
+  we/PRP
+  're/VBP
+  dealing/VBG
+  with/IN
+  is/VBZ
+  an/DT
+  emerging/VBG
+  concern/NN
+  ,/,
+  ''/''
+  he/PRP
+  said/VBD
+  ./.)
+(S
+  ``/``
+  If/IN
+  these/DT
+  [/NNP
+  mosquitoes/NNS
+  ]/VBD
+  become/VBP
+  widely/RB
+  successful/JJ
+  in/IN
+  (GPE California/NNP)
+  ,/,
+  we/PRP
+  have/VBP
+  the/DT
+  potential/NN
+  for/IN
+  disease/NN
+  transmission/NN
+  ./.)
+(S
+  ``/``
+  We/PRP
+  do/VBP
+  n't/RB
+  have/VB
+  any/DT
+  mosquitoes/NNS
+  that/WDT
+  live/VBP
+  so/RB
+  closely/RB
+  associated/VBN
+  with/IN
+  humans/NNS
+  ,/,
+  ''/''
+  he/PRP
+  added/VBD
+  ./.)
+(S
+  ``/``
+  These/DT
+  mosquitoes/NNS
+  are/VBP
+  notorious/JJ
+  in/IN
+  so/RB
+  many/JJ
+  parts/NNS
+  of/IN
+  the/DT
+  world/NN
+  because/IN
+  they/PRP
+  live/VBP
+  with/IN
+  us/PRP
+  ./.
+  ''/'')
+(S
+  Public-health/NN
+  officials/NNS
+  are/VBP
+  urging/VBG
+  residents/NNS
+  who/WP
+  see/VBP
+  these/DT
+  invasive/JJ
+  pests/NNS
+  on/IN
+  their/PRP$
+  properties/NNS
+  to/TO
+  take/VB
+  action/NN
+  before/IN
+  temperatures/NNS
+  heat/VBP
+  up/RP
+  ./.)
+(S
+  (GPE Mosquito/NNP)
+  season/NN
+  usually/RB
+  starts/VBZ
+  in/IN
+  March/NNP
+  and/CC
+  peaks/NNS
+  between/IN
+  August/NNP
+  and/CC
+  November/NNP
+  ./.)
+(S
+  With/IN
+  a/DT
+  limited/JJ
+  flight/NN
+  distance/NN
+  ,/,
+  the/DT
+  mosquitoes/NNS
+  likely/JJ
+  breed/NN
+  near/IN
+  where/WRB
+  they/PRP
+  're/VBP
+  spotted/VBN
+  ./.)
+(S
+  The/DT
+  saucers/NNS
+  of/IN
+  potted/JJ
+  plants/NNS
+  ,/,
+  plastic/NN
+  toys/NNS
+  that/WDT
+  fill/VBP
+  with/IN
+  water/NN
+  and/CC
+  clogged/VBD
+  rain/NN
+  gutters/NNS
+  offer/VBP
+  fertile/JJ
+  breeding/NN
+  opportunities/NNS
+  ./.)
+(S
+  The/DT
+  mosquitoes/NNS
+  '/POS
+  eggs/NNS
+  can/MD
+  survive/VB
+  without/IN
+  water/NN
+  for/IN
+  months/NNS
+  ,/,
+  requiring/VBG
+  infested/VBN
+  sites/NNS
+  to/TO
+  be/VB
+  scrubbed/VBN
+  down/RP
+  thoroughly/RB
+  ./.)
+(S
+  ``/``
+  For/IN
+  these/DT
+  guys/NNS
+  ,/,
+  more/RBR
+  so/RB
+  than/IN
+  ever/RB
+  ,/,
+  we/PRP
+  really/RB
+  need/VB
+  the/DT
+  public/NN
+  's/POS
+  help/NN
+  in/IN
+  eliminating/VBG
+  the/DT
+  standing/NN
+  water/NN
+  sources/NNS
+  to/TO
+  make/VB
+  sure/JJ
+  they/PRP
+  do/VBP
+  n't/RB
+  become/VB
+  more/JJR
+  of/IN
+  a/DT
+  problem/NN
+  ,/,
+  ''/''
+  (PERSON Conlan/NNP)
+  said/VBD
+  ./.)
+(S
+  1st/CD
+  found/VBN
+  in/IN
+  (GPE California/NNP)
+  in/IN
+  2013/CD
+  ,/,
+  _Aedes/VBZ
+  aegypti_/NN
+  and/CC
+  _Aedes/NNS
+  albopictus_/VBP
+  have/VBP
+  roughly/RB
+  tripled/VBN
+  in/IN
+  number/NN
+  around/IN
+  the/DT
+  state/NN
+  during/IN
+  the/DT
+  past/JJ
+  several/JJ
+  seasons/NNS
+  ./.)
+(S
+  They/PRP
+  're/VBP
+  now/RB
+  found/VBN
+  in/IN
+  82/CD
+  cities/NNS
+  ,/,
+  including/VBG
+  (PERSON Escondido/NNP)
+  ,/,
+  (GPE Los/NNP Angeles/NNP)
+  ,/,
+  (GPE Fresno/NNP)
+  and/CC
+  parts/NNS
+  of/IN
+  the/DT
+  (ORGANIZATION Bay/NNP Area/NNP)
+  ./.)
+(S
+  At/IN
+  the/DT
+  beginning/NN
+  of/IN
+  this/DT
+  year/NN
+  [/NN
+  2015/CD
+  ]/NN
+  ,/,
+  the/DT
+  count/NN
+  was/VBD
+  28/CD
+  cities/NNS
+  ./.)
+(S
+  But/CC
+  beyond/IN
+  being/VBG
+  a/DT
+  growing/VBG
+  public/JJ
+  nuisance/NN
+  ,/,
+  it/PRP
+  's/VBZ
+  unclear/JJ
+  what/WP
+  threat/NN
+  level/NN
+  these/DT
+  mosquitoes/NNS
+  present/VBD
+  ./.)
+(S
+  (GPE East/NNP)
+  (ORGANIZATION Coast/NNP)
+  and/CC
+  (GPE Midwest/NNP)
+  cities/NNS
+  have/VBP
+  long/RB
+  tolerated/VBN
+  the/DT
+  pests/NNS
+  without/IN
+  serious/JJ
+  incident/NN
+  ./.)
+(S
+  While/IN
+  (GPE Mexico/NNP)
+  and/CC
+  the/DT
+  (LOCATION Caribbean/NNP)
+  have/VBP
+  suffered/VBN
+  the/DT
+  effects/NNS
+  of/IN
+  dengue/NN
+  and/CC
+  chikungunya/NN
+  for/IN
+  some/DT
+  time/NN
+  ,/,
+  less/JJR
+  than/IN
+  a/DT
+  dozen/NN
+  people/NNS
+  in/IN
+  the/DT
+  contiguous/JJ
+  (GPE United/NNP States/NNPS)
+  ,/,
+  all/DT
+  in/IN
+  (GPE Florida/NNP)
+  ,/,
+  have/VBP
+  ever/RB
+  become/VBN
+  sick/JJ
+  from/IN
+  being/VBG
+  bitten/VBN
+  by/IN
+  a/DT
+  mosquito/NN
+  carrying/VBG
+  either/DT
+  disease/NN
+  ./.)
+(S
+  [/MD
+  Not/RB
+  all/DT
+  cases/NNS
+  have/VBP
+  been/VBN
+  in/IN
+  (GPE Florida/NNP)
+  --/:
+  see/VBP
+  comment/NN
+  at/IN
+  end/NN
+  ./.)
+(S
+  -/:
+  Mod.TY/NN
+  ]/RB
+  (PERSON Yellow/NNP)
+  fever/NN
+  has/VBZ
+  been/VBN
+  largely/RB
+  confined/VBN
+  to/TO
+  tropical/JJ
+  areas/NNS
+  of/IN
+  (GPE South/NNP America/NNP)
+  and/CC
+  (GPE Africa/NNP)
+  ./.)
+(S
+  A/DT
+  vaccine/NN
+  for/IN
+  travelers/NNS
+  has/VBZ
+  significantly/RB
+  limited/VBN
+  transmission/NN
+  of/IN
+  the/DT
+  disease/NN
+  into/IN
+  western/JJ
+  countries/NNS
+  ./.)
+(S
+  Meanwhile/RB
+  ,/,
+  a/DT
+  virus/NN
+  linked/VBN
+  to/TO
+  the/DT
+  mosquitoes/NNS
+  known/VBN
+  as/IN
+  (PERSON Zika/NNP)
+  has/VBZ
+  spread/VBN
+  throughout/IN
+  (GPE Brazil/NNP)
+  ,/,
+  [/NNP
+  suspected/VBD
+  of/IN
+  ]/NNP
+  causing/VBG
+  thousands/NNS
+  of/IN
+  cases/NNS
+  of/IN
+  brain/NN
+  damage/NN
+  in/IN
+  babies/NNS
+  born/VBN
+  with/IN
+  abnormally/RB
+  small/JJ
+  heads/NNS
+  ./.)
+(S
+  But/CC
+  the/DT
+  (ORGANIZATION United/NNP State/NNP)
+  has/VBZ
+  never/RB
+  had/VBD
+  a/DT
+  recorded/JJ
+  case/NN
+  of/IN
+  (GPE Zika/NNP)
+  ./.)
+(S
+  Still/RB
+  ,/,
+  public-health/NN
+  officials/NNS
+  warn/VBP
+  that/IN
+  it/PRP
+  's/VBZ
+  better/JJR
+  to/TO
+  be/VB
+  vigilant/JJ
+  about/IN
+  prevention/NN
+  ./.)
+(S
+  ``/``
+  The/DT
+  concern/NN
+  is/VBZ
+  that/IN
+  if/IN
+  and/CC
+  when/WRB
+  these/DT
+  mosquitoes/NNS
+  become/VBP
+  well-established/JJ
+  in/IN
+  the/DT
+  state/NN
+  and/CC
+  abundant/NN
+  in/IN
+  our/PRP$
+  neighborhoods/NNS
+  ,/,
+  then/RB
+  the/DT
+  risk/NN
+  of/IN
+  transmission/NN
+  increases/NNS
+  ,/,
+  ''/''
+  (PERSON Metzger/NNP)
+  said/VBD
+  ./.)
+(S
+  [/JJ
+  Byline/NNP
+  :/:
+  (PERSON Joshua/NNP Emerson/NNP Smith/NNP)
+  ]/NN)

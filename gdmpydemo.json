@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "Shanghai, China" ],
+   "origin_addresses" : [ "Beijing, China" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,227 km",
+                  "value" : 1226519
+               },
+               "duration" : {
+                  "text" : "12 hours 19 mins",
+                  "value" : 44326
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
