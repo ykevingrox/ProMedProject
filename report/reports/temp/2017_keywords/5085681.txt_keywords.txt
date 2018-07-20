@@ -1,0 +1,18 @@
+cases
+infection
+infections
+infected
+promed
+reported case fatality
+moh
+jun
+mod
+saudi
+condition
+healthcare acquired
+confirmed
+recoveries
+risk
+asymptomatic
+old
+fatalities

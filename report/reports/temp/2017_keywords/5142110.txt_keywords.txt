@@ -1,0 +1,17 @@
+case
+cholera cases
+health
+response
+past
+ongoing
+facilities
+today
+healthmap
+age
+medical
+day
+water
+http
+epidemic
+centers
+treatment

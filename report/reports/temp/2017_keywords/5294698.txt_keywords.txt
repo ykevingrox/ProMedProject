@@ -1,0 +1,17 @@
+disease
+typhus
+dr
+healthmap
+humans
+human
+mites
+stage
+tropical
+including
+cases
+districts
+district
+https
+year
+people
+forest

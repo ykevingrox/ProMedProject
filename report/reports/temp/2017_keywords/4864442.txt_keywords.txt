@@ -1,0 +1,6 @@
+http
+promed
+healthmap
+post
+indonesia
+fatality

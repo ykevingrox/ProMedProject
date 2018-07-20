@@ -1,0 +1,11 @@
+cases
+case
+promed
+project
+healthmap
+period
+important
+likely
+exposures
+exposure
+global

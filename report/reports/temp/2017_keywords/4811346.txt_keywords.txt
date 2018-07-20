@@ -1,0 +1,21 @@
+cases
+region
+reported case fatality
+reports
+condition
+al
+jan
+makkah
+saudi
+promed
+days
+day
+moh
+exposure
+recoveries
+recovery
+fatalities
+newly
+mod
+feb
+non

@@ -1,0 +1,79 @@
+Abdominal Aortic Aneurysm,Aortic Aneurysm
+Acanthamoeba Infection
+ACE,Adverse Childhood Experiences
+Acinetobacter Infection
+Acquired Immune Deficiency Syndrome,Acquired Immunodeficiency Syndrome,AIDS,HIV
+Adenovirus Infection
+Adenovirus Vaccination
+ADHD,Attention Deficit Disorder,ADHD,Attention Hyperactivity Disorder
+Adult Vaccinations
+AFib,AF,Atrial fibrillation
+African Trypanosomiasis,Sleeping Sickness
+Agricultural Safety,Farm Worker Injuries
+AHF,Alkhurma hemorrhagic fever
+Alkhurma hemorrhagic fever,AHF
+ALS,Amyotrophic Lateral Sclerosis
+Alzheimer's Disease
+Amebiasis,Entamoeba histolytica infection
+American Indian and Alaska Native Vaccination
+American Trypanosomiasis,Chagas Disease
+Amphibians and Fish,Fish and Amphibians
+Amyotrophic Lateral Sclerosis,ALS
+Anaplasmosis
+Ancylostoma duodenale Infection,Necator americanus Infection,Human Hookworm
+Angiostrongylus Infection
+Animal-Related Diseases
+Anisakiasis,Anisakis Infection
+Anthrax,Bacillus anthracis Infection,Bacillus anthracis
+Anthrax Vaccination
+Antibiotic and Antimicrobial Resistance
+Aortic Dissection,Aortic Aneurysm
+Arenavirus Infection
+Arthritis
+Fibromyalgia
+Gout
+Osteoarthritis,OA
+Rheumatoid Arthritis,RA
+Ascariasis,Ascaris Infection
+Aseptic Meningitis,Viral Meningitis
+Aspergillosis,Aspergillus Infection
+Aspergillus Infection,Aspergillosis
+Asthma
+Autism
+Avian Influenza,Bird Flu
+B virus Infection,Herpes B virus
+B. cepacia infection,Burkholderia cepacia Infection
+Babesia Infection,Babesiosis
+Babesiosis,Babesia Infection
+Back Belts,Ergonomic and Musculoskeletal Disorders
+Bacterial Meningitis,Meningitis,Meningococcal Disease
+Bacterial Vaginosis,BV
+Balamuthia mandrillaris Infection,Balamuthia Infection
+Balantidiasis,Balantidium Infection
+Bartonella bacilliformis Infection,Carrión’s disease
+Bartonella quintana Infection,Trench fever
+Baylisascaris Infection,Raccoon Roundworm Infection
+BCG,Tuberculosis Vaccine
+Bilharzia,Schistosomiasis
+Bioterrorism Agents,Bioterrorism Diseases
+Birth Defects
+Black Lung,Coal Workers' Pneumoconioses
+Blast Injuries
+Blastocystis hominis Infection,Blastocystis Infection
+blood clot
+Blood Disorders
+Body Lice,Pediculus humanus corporis
+Borrelia burgdorferi Infection,Lyme Disease
+Borreliosis,Relapsing Fever
+Botulism,Clostridium botulinum Infection
+Bovine Spongiform Encephalopathy,BSE,Mad Cow Disease
+Brainerd Diarrhea
+Breast and Ovarian Cancer and Family Health History 
+Breast Cancer
+Breastfeeding
+Bronchiolitis,Respiratory Syncytial Virus Infection
+Bronchitis
+Brucella Infection,Brucellosis
+Brucellosis,Brucella Infection
+Burkholderia mallei,Glanders
+Burkholderia pseudomallei Infection,Melioidosis

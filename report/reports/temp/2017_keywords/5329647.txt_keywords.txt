@@ -1,0 +1,40 @@
+district
+districts
+governorate
+governorates
+case
+cases
+health
+ipv
+deir
+report
+reporting
+reported
+cvdpv
+month
+months
+vaccination
+vaccine
+immunity
+immunization rounds
+raqqa round
+healthmap
+response
+percent
+afp surveillance
+current
+idp
+orientation
+specimen
+children
+currently includes
+dose
+doses
+homs
+include
+ngos
+syrian
+syria
+micro
+situation
+sep

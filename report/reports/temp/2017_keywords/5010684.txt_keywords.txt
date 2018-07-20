@@ -1,0 +1,22 @@
+figure
+cases
+confirmed
+brazil
+case fatality
+yellow fever
+state
+states
+reported
+municipalities
+municipality
+onset
+apr
+date
+dates
+sì
+parìá
+situation
+probable
+ecuador
+fatal
+gerais

@@ -1,0 +1,13 @@
+patient
+jul
+measures
+healthmap
+virus
+risk
+cchf
+fast
+naseer
+said
+blood
+case
+bleeding

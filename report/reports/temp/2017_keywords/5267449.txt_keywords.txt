@@ -1,0 +1,11 @@
+city
+healthmap
+consumed
+produced
+producer
+supermarket
+project
+mainichi
+surveillance
+_escherichia coli_
+hemolytic

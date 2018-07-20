@@ -1,0 +1,7 @@
+animal
+district
+naryn
+region
+central
+kyrgyzstan
+sick

@@ -1,0 +1,30 @@
+city
+autonomous
+county
+hospitals
+hospital
+pneumonia
+flu
+influenza
+casedate
+aiv cases
+contacts
+poultry contact
+test
+human
+investigation
+clinic
+clinical
+days
+confirmation tests
+case
+healthmap
+confirmed
+provincial
+fujian
+male
+patients
+patient
+old
+lived
+live

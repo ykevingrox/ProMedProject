@@ -1,0 +1,27 @@
+cases
+region
+reported case fatality
+al
+aug
+reporting
+report
+contact
+contacts
+healthcare
+infection
+infections
+recoveries
+mod
+condition
+saudi
+promed
+http
+sep
+moh
+confirmed
+confirmation
+days preceding
+aljandal
+fatalities
+asymptomatic
+non

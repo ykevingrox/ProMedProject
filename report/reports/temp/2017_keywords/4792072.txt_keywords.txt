@@ -1,0 +1,17 @@
+cases
+jan
+reported case
+region
+condition
+saudi
+promed
+mod
+days
+day
+recoveries
+ash
+risk
+healthmap map
+makkah
+http
+moh

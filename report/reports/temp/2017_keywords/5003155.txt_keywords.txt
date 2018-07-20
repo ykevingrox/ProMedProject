@@ -1,0 +1,26 @@
+p
+states
+state
+cases
+arthropod
+tularemia
+geographic
+cdc
+llr
+risk
+methods
+method
+healthmap
+conference
+usa
+tularensis_
+animal
+county
+arkansas
+spatial
+cluster
+year
+notifiable
+diseases
+moved northward
+northern

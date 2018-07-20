@@ -1,0 +1,12 @@
+health
+confirmed
+confirmation
+project
+surveillance
+bali
+healthmap
+response
+responses
+source
+cases
+case

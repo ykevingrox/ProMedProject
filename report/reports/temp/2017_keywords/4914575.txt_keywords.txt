@@ -1,0 +1,19 @@
+health
+pools
+pool
+disease
+healthmap
+water
+cases
+case
+infection
+infected
+avoid
+highest
+changing
+liverpool
+cryptosporidiosis
+leader report
+contaminated
+reported
+http

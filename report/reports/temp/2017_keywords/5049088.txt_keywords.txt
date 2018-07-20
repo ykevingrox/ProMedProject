@@ -1,0 +1,24 @@
+cases
+reported case fatality
+region
+promed
+mod
+healthcare
+infection
+infections
+saudi
+moh
+exposure
+exposures
+recoveries
+recovery
+transmission
+http
+days preceding
+confirmed
+condition
+asir
+fatalities
+worker
+workers
+map

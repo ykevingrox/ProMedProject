@@ -1,0 +1,27 @@
+cases
+reported case fatality
+mod
+region
+regions
+fatalities
+fatal
+healthcare
+recoveries
+recovery
+reporting
+promed
+confirmed
+al
+infection
+infected
+infections
+including
+include
+included
+condition
+moh
+healthmap
+http
+preceding
+male
+risk exposure

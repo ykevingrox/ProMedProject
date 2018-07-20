@@ -1,0 +1,12 @@
+promed
+health
+england
+healthmap
+fever
+say
+http
+east
+uk
+cases
+year
+years

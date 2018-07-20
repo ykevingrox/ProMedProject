@@ -1,0 +1,21 @@
+cases
+healthcare
+reported case
+promed
+infection
+infections
+infected
+contact
+contacts
+moh
+saudi
+jun
+confirmed
+recoveries
+visitor
+nosocomial
+asymptomatic
+old
+individual
+individuals
+mod

@@ -1,0 +1,17 @@
+cases
+number
+cholera
+cholerae_
+deaths
+reported numbers
+http
+governorate
+governorates
+healthmap
+organization
+year
+million
+saudi
+arabia
+related
+report

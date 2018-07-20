@@ -1,0 +1,1 @@
+先用谷歌api计算两地的driving 和transits时间 取最小值，然后如果返回zero——result 那么先利用opendata 查找有没有国家，如果有的话再看城市是不是一样的，如果不一样，利用谷歌api遍历最近的有机场的城市

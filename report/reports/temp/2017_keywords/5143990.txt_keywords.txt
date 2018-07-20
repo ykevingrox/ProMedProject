@@ -1,0 +1,22 @@
+areas
+veterinary
+twilang area
+basnet
+kangpokpi
+cattle
+http
+jun
+disease
+fatal
+healthmap
+rates
+cows
+cow
+symptoms
+deserves
+sadar
+dr
+high fever
+vikas
+meigai
+fmd

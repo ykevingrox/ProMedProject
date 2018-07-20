@@ -1,0 +1,56 @@
+patients
+patient
+cases
+case
+_c
+cdc
+facility
+c auris
+auris_
+care
+_candida
+candida
+_candida_
+percent
+healthcare facilities
+clinical
+infections
+infection
+hospital
+hospitalizations
+hospitalized
+health
+control
+new
+antifungals
+related
+chicago
+including
+ach
+ward
+wards
+ltach
+et
+colonization
+colonized
+colonizing
+antifungal drug
+isolated
+isolates
+identified
+healthmap
+days
+ledge
+requesting
+risk
+environmental
+identify overlaps
+usa
+transmission
+evidence
+overlapping
+conference
+single
+chair
+bed
+catheters

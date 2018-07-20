@@ -1,0 +1,19 @@
+cases
+jan
+promed
+reported case fatality
+region
+condition
+al
+report
+ash
+recoveries
+recovery
+saudi
+fatalities
+direct
+mod
+moh
+days preceding
+makkah
+male

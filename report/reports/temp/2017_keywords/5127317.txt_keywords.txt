@@ -1,0 +1,30 @@
+health
+cases
+case
+disease
+reported
+report
+chikungunya viral fever
+areas
+district
+karachi
+sindh
+healthmap
+viruses
+virus
+actions
+action
+capacity
+pain
+deg
+unit
+information
+according
+suspected
+total
+pakistan
+residual
+measures
+indoor insecticide
+_aedes
+communication

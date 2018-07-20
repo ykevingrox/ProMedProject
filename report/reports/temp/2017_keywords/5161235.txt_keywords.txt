@@ -1,0 +1,14 @@
+al
+cases
+case
+deaths
+governorates
+governorate
+amanat
+healthmap
+districts
+ma
+amran
+gov
+http
+attack

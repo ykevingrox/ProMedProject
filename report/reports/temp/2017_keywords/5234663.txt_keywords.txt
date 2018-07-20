@@ -1,0 +1,21 @@
+cases
+infection
+infections
+reported case
+contact
+contacts
+reporting
+promed
+moh
+saudi
+confirmed
+aug
+region
+recoveries
+preceding
+condition
+previously
+newly
+asymptomatic
+aljandal
+http

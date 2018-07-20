@@ -1,0 +1,19 @@
+chikungunya,1
+cholera,2
+crimean-congo haemorrhagic fever,3
+ebola virus disease,4
+hendra virus infection,5
+influenza,6
+lassa fever,7
+marburg virus disease,8
+meningitis,9
+mers-cov,10
+monkeypox,11
+nipah virus infection,12
+plague,13
+rift valley fever,14
+sars,15
+smallpox,16
+tularaemia,17
+yellow fever,18
+zika virus disease,19

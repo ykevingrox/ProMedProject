@@ -1,0 +1,24 @@
+province
+case
+cases
+patient
+flu
+apr
+district
+city
+ili
+hospital
+male
+pneumonia
+county
+study
+autonomous
+influenza
+fic
+reported
+healthmap
+poultry
+tue
+contacts
+contact
+specific adaptations

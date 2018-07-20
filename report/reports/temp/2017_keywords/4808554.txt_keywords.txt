@@ -1,0 +1,10 @@
+health
+measles
+suffolk
+confirmed case
+center
+patch
+martin
+samaritan
+room
+rooms
